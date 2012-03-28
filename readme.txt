@@ -6,3 +6,5 @@ once you get used to it
 Change
 
 This version is about to be pushed to the flashstick
+
+Another copy changed this version
